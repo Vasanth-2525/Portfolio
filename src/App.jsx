@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Navbar from "./components/NavBar.jsx";
 import Home from "./Pages/Home.jsx";
-import About from "./Pages/about.jsx";
+import About from "./Pages/About.jsx";
 import Portfolio from "./Pages/Portfolio.jsx";
 import Review from "./Pages/Review.jsx";
 import Services from "./Pages/Services.jsx";
