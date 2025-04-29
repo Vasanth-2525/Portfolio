@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from "react";
-import Navbar from "./components/NavBar";
-import Home from "./Pages/Home";
-import About from "./Pages/about";
-import Portfolio from "./Pages/Portfolio";
-import Review from "./Pages/Review";
-import Services from "./Pages/Services";
-import Contact from "./Pages/Contact";
-import Footer from "./components/Footer";
-import { FaArrowUp } from "react-icons/fa6";
-import { Link } from "react-scroll";
+import Navbar from "./components/NavBar.jsx";
+import Home from "./Pages/Home.jsx";
+import About from "./Pages/about.jsx";
+import Portfolio from "./Pages/Portfolio.jsx";
+import Review from "./Pages/Review.jsx";
+import Services from "./Pages/Services.jsx";
+import Contact from "./Pages/Contact.jsx";
+import Footer from "./components/Footer.jsx";
+import { FaArrowUp } from "react-icons/fa6.jsx";
+import { Link } from "react-scroll.jsx";
 
 function App() {
   const [isVisible, setIsVisible] = useState(false);
