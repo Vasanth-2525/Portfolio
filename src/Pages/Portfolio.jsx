@@ -1,9 +1,9 @@
-import img1 from "E:/Portfolio/Portfolio/Porfolio_App/src/assets/image/tab-image-1.png";
-import img2 from "E:/Portfolio/Portfolio/Porfolio_App/src/assets/image/tab-image-2.png";
-import img3 from "E:/Portfolio/Portfolio/Porfolio_App/src/assets/image/tab-image-3.png";
-import img4 from "E:/Portfolio/Portfolio/Porfolio_App/src/assets/image/tab-image-4.png";
-import img5 from "E:/Portfolio/Portfolio/Porfolio_App/src/assets/image/tab-image-5.png";
-import img6 from "E:/Portfolio/Portfolio/Porfolio_App/src/assets/image/tab-image-6.png";
+import img1 from "../assets/image/tab-image-1.png";
+import img2 from "../assets/image/tab-image-2.png";
+import img3 from "../assets/image/tab-image-3.png";
+import img4 from "../assets/image/tab-image-4.png";
+import img5 from "../assets/image/tab-image-5.png";
+import img6 from "../assets/image/tab-image-6.png";
 import { FaGuilded } from "react-icons/fa";
 import { TbBrandCodesandbox } from "react-icons/tb";
 import { MdAutoAwesomeMotion } from "react-icons/md";

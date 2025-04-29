@@ -1,8 +1,8 @@
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
-import client1 from "E:/Portfolio/Portfolio/Porfolio_App/src/assets/image/rev1.png";
-import client2 from "E:/Portfolio/Portfolio/Porfolio_App/src/assets/image/client-img-1.jpg";
+import client1 from "../assets/image/rev1.png";
+import client2 from "../assets/image/client-img-1.jpg";
 
 const Client = () => {
   const reviews = [

@@ -1,7 +1,7 @@
-import gallery1 from "E:/Portfolio/Portfolio/Porfolio_App/src/assets/image/gallery-image-01.jpg";
-import gallery2 from "E:/Portfolio/Portfolio/Porfolio_App/src/assets/image/gallery-image-02.jpg";
-import gallery3 from "E:/Portfolio/Portfolio/Porfolio_App/src/assets/image/gallery-image-03.jpg";
-import gallery4 from "E:/Portfolio/Portfolio/Porfolio_App/src/assets/image/gallery-image-04.jpg";
+import gallery1 from "../assets/image/gallery-image-01.jpg";
+import gallery2 from "../assets/image/gallery-image-02.jpg";
+import gallery3 from "../assets/image/gallery-image-03.jpg";
+import gallery4 from "../assets/image/gallery-image-04.jpg";
 import { FaArrowRight } from "react-icons/fa";
 
 function Portfolio() {
