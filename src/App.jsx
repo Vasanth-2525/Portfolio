@@ -7,8 +7,8 @@ import Review from "./Pages/Review.jsx";
 import Services from "./Pages/Services.jsx";
 import Contact from "./Pages/Contact.jsx";
 import Footer from "./components/Footer.jsx";
-import { FaArrowUp } from "react-icons/fa6.jsx";
-import { Link } from "react-scroll.jsx";
+import { FaArrowUp } from "react-icons/fa";
+import { Link } from "react-scroll";
 
 function App() {
   const [isVisible, setIsVisible] = useState(false);

@@ -1,7 +1,7 @@
 import { CiLock } from "react-icons/ci";
 import { FaBusinessTime } from "react-icons/fa";
 import { LuTrophy } from "react-icons/lu";
-import { FaArrowRightLong } from "react-icons/fa6";
+import { FaArrowRight } from "react-icons/fa";
 
 function About() {
   return (
@@ -82,7 +82,7 @@ function About() {
 
           {/* Button */}
           <button className="bg-[#fdc448] text-black px-6 py-3 rounded-md font-semibold flex items-center gap-2 hover:bg-transparent hover:text-[#fdc448] hover:border-[#fdc448] border-2 border-transparent transition-all duration-300">
-            Read More <FaArrowRightLong />
+            Read More <FaArrowRight />
           </button>
         </div>
       </div>

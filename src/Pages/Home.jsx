@@ -1,6 +1,6 @@
 import React from "react";
 import "./orbit.css";
-import { FaArrowRightLong } from "react-icons/fa6";
+import { FaArrowRight } from "react-icons/fa";
 import heroImg from "../assets/image/hero-img.jpeg";
 
 function Home() {
@@ -26,7 +26,7 @@ function Home() {
             ipsum neque?
           </p>
           <button className="flex items-center justify-center gap-2 px-6 py-3 border-2 border-[#fdc448] bg-[#fdc448] text-black font-semibold rounded-md shadow hover:bg-black hover:text-[#fdc448] hover:border-[#fdc448] transition-all duration-300 mx-auto lg:mx-0">
-            View Portfolio <FaArrowRightLong />
+            View Portfolio <FaArrowRight />
           </button>
         </div>
 
