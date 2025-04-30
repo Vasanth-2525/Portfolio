@@ -69,7 +69,7 @@ function Footer() {
 
       {/* Divider */}
       <div className="max-w-7xl mx-auto border-t border-gray-800 mt-12 pt-8 text-center text-gray-500">
-        <p>© {new Date().getFullYear()} Jenni. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Vasanth. All rights reserved.</p>
       </div>
     </footer>
   );
